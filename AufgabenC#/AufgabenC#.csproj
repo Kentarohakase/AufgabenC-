@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BiggerThan.cs" />
+    <Compile Include="EvenOrNot.cs" />
     <Compile Include="HelloWorld.cs" />
     <Compile Include="LeapYears.cs" />
     <Compile Include="Program.cs" />

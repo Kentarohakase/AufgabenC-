@@ -11,11 +11,13 @@ namespace AufgabenC_ {
 
    HelloWorld.Lesson1( );
    
-   SumOf.Sum();
+   //SumOf.Sum();
 
-   BiggerThan.Bigger( );
+   //BiggerThan.Bigger( );
 
-   LeapYears.Leaps( );
+   //LeapYears.Leaps( );
+
+   EvenOrNot.Even( );
 
    Console.ReadKey( );
   }
